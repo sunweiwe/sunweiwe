@@ -21,10 +21,9 @@ Here are some ideas to get you started:
  ### Hi there 👋
 
  - 🔭 I’m currently interested in JavaScript.
- - 🌱 I’m currently learning Chemistry.
+ - 🌱 I’m currently learning Node.
  - 💬 Ask me about: Anything!
  - 📫 How to reach me: 
- - ⚡ Fun fact: Love Funko!
 
 #### Thank you for the visit.
 ![](http://profile-counter.glitch.me/sunweiwe/count.svg)
