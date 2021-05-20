@@ -22,6 +22,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about: Anything!
 - 📫 How to reach me: sun_weiwe@163.com
 
-#### Thank you for the visit
-
-![](http://profile-counter.glitch.me/sunweiwe/count.svg)
