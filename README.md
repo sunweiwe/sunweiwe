@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-- 🔭 I’m currently interested in JavaScript.
-- 🌱 I’m currently learning GoLang.
+- 🔭 I’m currently working on GoLang and Typescript.
+- 🌱 I’m currently learning  C++.
 - 💬 Ask me about: Anything!
 - 📫 How to reach me: sun_weiwe@163.com
 
